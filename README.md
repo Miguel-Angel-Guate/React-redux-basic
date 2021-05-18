@@ -11,3 +11,5 @@
     sytiled-components
     reselect
     react-router-dom
+
+### `FAKE API https://reqres.in/`
